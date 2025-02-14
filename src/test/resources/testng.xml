@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Cucumber jQuery Test Suite" parallel="false">
+  <test name="Cucumber jQuery Test">
+    <classes>
+      <class name="com.jqueryui.testrunner.TestRunner"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
